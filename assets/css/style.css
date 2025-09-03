@@ -1,8 +1,16 @@
+/* Slightly transparent table background */
+.transparent-table {
+	background-color: rgba(255,255,255,0.85);
+}
 
 
-h1, h2, p{
+h1, p{
     color: #ffffff;
     
+}
+
+h2{
+    color: ff6400;
 }
 html, body {
 	height: 100%;
@@ -45,7 +53,7 @@ main {
 	padding-bottom: 1.5rem;
 }
 
-.background, h2, p{
+.background, h2, p, {
     padding-left:40px;
     padding-bottom: 5px;
     padding-top: 10px;
