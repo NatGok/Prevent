@@ -1,3 +1,25 @@
+
+
+h1, h2, p{
+    color: #ffffff;
+    
+}
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+    background: #090843;
+}
+
+body {
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+}
+
+main {
+	flex: 1;
+}
 /* Hero section styles */
 .hero-img-container {
 	height: 50vh;
@@ -23,27 +45,11 @@
 	padding-bottom: 1.5rem;
 }
 
-h1{
-    color: #ffffff;
-    
+.background, h2, p{
+    padding-left:40px;
+    padding-bottom: 5px;
+    padding-top: 10px;
 }
-html, body {
-	height: 100%;
-	margin: 0;
-	padding: 0;
-    background: #090843;
-}
-
-body {
-	min-height: 100vh;
-	display: flex;
-	flex-direction: column;
-}
-
-main {
-	flex: 1;
-}
-
 footer {
 	background: #FF6400;
 	color: #fff;
@@ -54,7 +60,7 @@ footer {
 }
 @media (min-width: 800px) {
 	#hero-img-container img {
-		object-position: center center !important;
-	}
+		object-position: center center;
+        	}
 }
 
