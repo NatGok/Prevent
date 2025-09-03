@@ -1,8 +1,13 @@
 
+h1{
+    color: #ffffff;
+    
+}
 html, body {
 	height: 100%;
 	margin: 0;
 	padding: 0;
+    background: #090843;
 }
 
 body {
@@ -16,10 +21,16 @@ main {
 }
 
 footer {
-	background: #222;
+	background: #FF6400;
 	color: #fff;
 	text-align: center;
 	padding: 1em 0;
 	margin-top: auto;
 	width: 100%;
 }
+@media (min-width: 800px) {
+	#hero-img-container img {
+		object-position: center center !important;
+	}
+}
+
