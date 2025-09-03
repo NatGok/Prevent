@@ -1,3 +1,13 @@
+/* Orange button for form submit */
+.btn-orange {
+	background-color: #FF6400;
+	color: #fff;
+	border: none;
+}
+.btn-orange:hover, .btn-orange:focus {
+	background-color: #e65a00;
+	color: #fff;
+}
 /* Remove margin between h2 and h3 in Speak Up section */
 .no-margin {
 	margin-top: 0 !important;
