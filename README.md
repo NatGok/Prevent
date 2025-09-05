@@ -113,14 +113,17 @@ Co-pilot was used to produce and reword the majority of the text used on the sit
  3) Menu and text items where only discovered by manually selecting and reviewing the code
  4) the 2 highlighted concerns related to bootstrap layout which didnt make clear the actual visibility or accessibility issue.
 
- assets/images/rating.png
+![Lighthouse Rating](assets/images/rating.png)
+
 
 ## Deployment
 From GitHub I first selected the Prevent repository and selected Settings tab.
 Under the build and deploy section I selected main and root and clicked save
 
+![GIT Deploy](assets/images/buildanddeploy.png)
 From the main prevent repository, Under the subheading Deployment I clicked the link 
 showing my unique web address.https://natgok.github.io/Prevent/
+![My site can be viewed](assets/images/mysite.png)
 
 
 
