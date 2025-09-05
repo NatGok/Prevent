@@ -13,6 +13,7 @@ This project is a responsive, accessible, and visually engaging website designed
 
 - **Responsive Navbar:**  ![Mobile Menu](assets/images/nav.png)![Sub Menu](assets/images/navselect.png)
 ![Full banner Menu](assets/images/landnavfull.png)
+![Sub Menu selection](assets/images/navexp.png)
   Fixed at the top, collapses on mobile, with custom color and accessible dropdowns.
 
 - **Introduction Section:**  ![Navigation Menu](assets/images/landhero.png)
@@ -30,9 +31,11 @@ This project is a responsive, accessible, and visually engaging website designed
   ![Warning Section](assets/images/landwarning.png)
   
   - **Prevent Strategy:**  ![Strategy](assets/images/landduty.png)
+  ![stacked for mobile strategy information](assets/images/stackduty.png)
   Four key strategy cards (Duty, Training, Collaboration, Tailored Support) displayed in a 2x2 grid on large screens and stacked on mobile.
 
 - **Contact Cards:**  ![Contact information](assets/images/landspeak.png)
+![Contact information stacked](assets/images/stackcontact.png)
   Key staff contacts displayed in responsive cards with clickable email links.
 
 - **Speak Up Section:**  NB: see image avove
@@ -52,7 +55,8 @@ This project is a responsive, accessible, and visually engaging website designed
   ![Hero](assets/images/hero.png)
 
 - **Strategy Images:**  
-  Duty and Responsibility![Duty](assets/images/sduty.png)  
+  Duty and Responsibility
+  ![Duty](assets/images/sduty.png)  
   Training![Training](assets/images/straining.png)  
   Collaboration![Collaboration](assets/images/scollaboration.png)  
   Tailored Support![Tailored Support](assets/images/sbespoke.png)
