@@ -124,7 +124,7 @@ a href {
 /* Orange button for form submit */
 .btn-orange {
   background-color: #FFAA75;
-  color: #fff;
+  color: #090843 !important; /* Match body background for contrast */
   border: none;
 }
 .btn-orange:hover,
