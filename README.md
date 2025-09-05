@@ -11,35 +11,37 @@ This project is a responsive, accessible, and visually engaging website designed
 
 ## Features & Functions
 
-- **Responsive Navbar:**  ![Navigation Menu](assets/images/nav.png)
+- **Responsive Navbar:**  ![Mobile Menu](assets/images/nav.png)![Sub Menu](assets/images/navselect.png)
+![Full banner Menu](assets/images/landnavfull.png)
   Fixed at the top, collapses on mobile, with custom color and accessible dropdowns.
 
-
-- **Introduction Section:**  [Navigation Menu](assets/images/landhero.png)
+- **Introduction Section:**  ![Navigation Menu](assets/images/landhero.png)
   Large, responsive hero image with a prominent tagline, the image changes on larger devices.
 
-- **Background Information:**  [Background Information](assets/images/landbg.png)
+- **Background Information:**  ![Background Information](assets/images/landbg.png)
   Information on why the strategy is needed, explaining who is likely to be affected and the impact it can have. 
 
-- **Vulnerability Table:**  
+- **Vulnerability Table:**  NB:See image above
+
   Bootstrap table with transparent background highlighting contributing factors and vulnerabilities.
   
-- **Warning Signs List:**  [Warning Section](assets/images/landwarning.png)
+- **Warning Signs List:**  
   Five bullet points with bold headers and explanations for identifying warning signs.
+  ![Warning Section](assets/images/landwarning.png)
   
-  - **Prevent Strategy:**  [Strategy](assets/images/landduty.png)
+  - **Prevent Strategy:**  ![Strategy](assets/images/landduty.png)
   Four key strategy cards (Duty, Training, Collaboration, Tailored Support) displayed in a 2x2 grid on large screens and stacked on mobile.
 
-- **Contact Cards:**  [Contact information](assets/images/landspeak.png)
+- **Contact Cards:**  ![Contact information](assets/images/landspeak.png)
   Key staff contacts displayed in responsive cards with clickable email links.
 
-- **Speak Up Section:**  
+- **Speak Up Section:**  NB: see image avove
   Encourages reporting concerns, with a clear call-to-action.
 
-- **Report Form:**  [Input text form](assets/images/landform.png)
+- **Report Form:**  ![Input text form](assets/images/landform.png)
   Accessible Bootstrap form with required and optional fields for their personal details, styled for clarity and contrast.
 
-- **Footer:**  [footer containing important information](assets/images/landfooter.png)
+- **Footer:**  ![footer containing important information](assets/images/landfooter.png)
   Three-column responsive footer with emergency info, social media icons,3 award logos, and international contact details.
 
 ---
@@ -47,16 +49,19 @@ This project is a responsive, accessible, and visually engaging website designed
 ## Images
 
 - **Hero Image:**  
-  ![Hero](assets/images/hero.webp)
+  ![Hero](assets/images/hero.png)
 
 - **Strategy Images:**  
-  ![Duty](assets/images/duty.png)  
-  ![Training](assets/images/training.png)  
-  ![Collaboration](assets/images/collaboration.png)  
-  ![Tailored Support](assets/images/bespoke.png)
+  Duty and Responsibility![Duty](assets/images/sduty.png)  
+  Training![Training](assets/images/straining.png)  
+  Collaboration![Collaboration](assets/images/scollaboration.png)  
+  Tailored Support![Tailored Support](assets/images/sbespoke.png)
 
 - **Award Logo:**  
-  ![Award](assets/images/award.webp)
+  Footer logo responsive to screen size![Award](assets/images/award.webp)
+   ![tablet view](assets/images/midlogo.png)
+  ![laptop view](assets/images/fulllogo.png)
+  ![mobile view](assets/images/flogo.png)
 
 ---
 
