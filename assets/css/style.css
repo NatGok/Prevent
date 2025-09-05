@@ -1,129 +1,133 @@
-/* Add 12px padding around cards in grid */
-.card {
-	padding: 12px;
-	margin-left: 20px;
-}
-/* Set card text color to Bootstrap primary (#0d6efd) */
-.card-text {
-	color: #0d6efd !important;
-}
-/* Ensure footer social icons are white and visible */
-.footer .fab {
-	color: #fff !important;
-	opacity: 1;
-}
-/* Orange button for form submit */
-.btn-orange {
-	background-color: #FF6400;
-	color: #fff;
-	border: none;
-}
-.btn-orange:hover, .btn-orange:focus {
-	background-color: #e65a00;
-	color: #fff;
-}
-/* Remove margin between h2 and h3 in Speak Up section */
-.no-margin {
-	margin-top: 0 !important;
-	margin-bottom: 0 !important;
-}
-/* Remove all padding for card-text class */
-.card-text {
-	padding: 0 !important;
-}
+
+
+
 /* Slightly transparent table background */
 .transparent-table {
-	background-color: rgba(255,255,255,0.85);
+  background-color: rgba(255, 255, 255, 0.85);
 }
 
-
-h1, p{
-    color: #ffffff;
-    
+h1, p {
+  color: #ffffff;
 }
 
-h2{
-    color: ff6400;
+h2 {
+  color: #ff6400;
 }
 html, body {
-	height: 100%;
-	margin: 0;
-	padding: 0;
-    background: #090843;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background: #090843;
 }
 
 body {
-	min-height: 100vh;
-	display: flex;
-	flex-direction: column;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 main {
-	flex: 1;
+  flex: 1;
 }
 /* Hero section styles */
 .hero-img-container {
-	height: 50vh;
-	min-height: 300px;
-	position: relative;
-	width: 100%;
+  height: 50vh;
+  min-height: 300px;
+  position: relative;
+  width: 100%;
 }
 .hero-img {
-	object-fit: cover;
-	object-position: top center;
-	filter: brightness(0.7);
-	height: 100%;
-	width: 100%;
+  object-fit: cover;
+  object-position: top center;
+  filter: brightness(0.7);
+  height: 100%;
+  width: 100%;
 }
 .hero-text {
-	width: 100%;
-	position: absolute;
-	bottom: 0;
-	left: 50%;
-	transform: translateX(-50%);
-	text-align: center;
-	color: #fff;
-	padding-bottom: 1.5rem;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  color: #fff;
+  padding-bottom: 1.5rem;
 }
 
-.background, h2, h3, p{
-    padding-left:55px;
-    padding-right: 25px;
-    padding-bottom: 5px;
-    padding-top: 10px;
-    
+/* Remove all padding for card-text class */
+.card-text {
+  padding: 0 !important;
+}
+/* Add 12px padding around cards in grid */
+.card {
+  padding: 12px;
+  margin-left: 20px;
+}
+/* Set card text color to Bootstrap primary (#0d6efd) */
+.card-text {
+  color: #0d6efd !important;
 }
 
- li{
-    padding-left:55px;
-    padding-right: 25px;
-    color: #fff;
+
+.background,
+h2, h3, p {
+  padding-left: 55px;
+  padding-right: 25px;
+  padding-bottom: 5px;
+  padding-top: 10px;
 }
 
-h3{
-    font-size: small;
-    color: #fff;
-    text-align: center;
+li {
+  padding-left: 55px;
+  padding-right: 25px;
+  color: #fff;
+}
+
+h3 {
+  font-size: small;
+  color: #fff;
+  text-align: center;
 }
 
 footer {
-	background: #0d6efd;
-	color: #fff;
-	text-align: center;
-	margin-top: 0%;
-	padding:0%;
-	width: 100%;
+  background: #0d6efd;
+  color: #fff;
+  text-align: center;
+  margin-top: 0%;
+  padding: 0%;
+  width: 100%;
 }
 
-a href{
-    text-align: left;
+a href {
+  text-align: left;
+}
+/* Remove margin between h2 and h3 in Speak Up section */
+.no-margin {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
 }
 
+/* Orange button for form submit */
+.btn-orange {
+  background-color: #ff6400;
+  color: #fff;
+  border: none;
+}
+.btn-orange:hover,
+.btn-orange:focus {
+  background-color: #e65a00;
+  color: #fff;
+}
 
+/* Ensure footer social icons are white and visible */
+.footer .fab {
+  color: #fff !important;
+  opacity: 1;
+}
 @media (min-width: 800px) {
-	#hero-img-container img {
-		object-position: center center;
-        	}
+  #hero-img-container img {
+    object-position: center center;
+  }
 }
 
 /* Reduce logo size in footer for devices 768px to 1023px */
