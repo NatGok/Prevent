@@ -118,6 +118,13 @@ a href{
     text-align: left;
 }
 
+
+@media (min-width: 800px) {
+	#hero-img-container img {
+		object-position: center center;
+        	}
+}
+
 /* Reduce logo size in footer for devices 768px to 1023px */
 @media (min-width: 768px) and (max-width: 1023px) {
   .footer img[alt="Award"] {
@@ -126,10 +133,3 @@ a href{
     height: auto !important;
   }
 }
-
-@media (min-width: 800px) {
-	#hero-img-container img {
-		object-position: center center;
-        	}
-}
-
