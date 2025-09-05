@@ -11,34 +11,35 @@ This project is a responsive, accessible, and visually engaging website designed
 
 ## Features & Functions
 
-- **Responsive Navbar:**  
+- **Responsive Navbar:**  ![Navigation Menu](assets/images/nav.png)
   Fixed at the top, collapses on mobile, with custom color and accessible dropdowns.
 
-- **Introduction Section:**  
+
+- **Introduction Section:**  [Navigation Menu](assets/images/landhero.png)
   Large, responsive hero image with a prominent tagline, the image changes on larger devices.
 
-- **Background Information:**  
+- **Background Information:**  [Background Information](assets/images/landbg.png)
   Information on why the strategy is needed, explaining who is likely to be affected and the impact it can have. 
 
 - **Vulnerability Table:**  
   Bootstrap table with transparent background highlighting contributing factors and vulnerabilities.
   
-- **Warning Signs List:**  
+- **Warning Signs List:**  [Warning Section](assets/images/landwarning.png)
   Five bullet points with bold headers and explanations for identifying warning signs.
   
-  - **Prevent Strategy:**  
+  - **Prevent Strategy:**  [Strategy](assets/images/landduty.png)
   Four key strategy cards (Duty, Training, Collaboration, Tailored Support) displayed in a 2x2 grid on large screens and stacked on mobile.
 
-- **Contact Cards:**  
+- **Contact Cards:**  [Contact information](assets/images/landspeak.png)
   Key staff contacts displayed in responsive cards with clickable email links.
 
 - **Speak Up Section:**  
   Encourages reporting concerns, with a clear call-to-action.
 
-- **Report Form:**  
+- **Report Form:**  [Input text form](assets/images/landform.png)
   Accessible Bootstrap form with required and optional fields for their personal details, styled for clarity and contrast.
 
-- **Footer:**  
+- **Footer:**  [footer containing important information](assets/images/landfooter.png)
   Three-column responsive footer with emergency info, social media icons,3 award logos, and international contact details.
 
 ---
