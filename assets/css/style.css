@@ -1,6 +1,20 @@
 
-
-
+.navbar {
+  background-color: #024BB6 !important;
+}
+/* Make navbar link items white, including dropdown */
+.navbar .navbar-nav .nav-link,
+.navbar .navbar-nav .dropdown-item {
+  color: #fff !important;
+}
+/* Set navbar link hover/focus background to #024BB6 */
+.navbar .navbar-nav .nav-link:hover,
+.navbar .navbar-nav .nav-link:focus,
+.navbar .navbar-nav .dropdown-item:hover,
+.navbar .navbar-nav .dropdown-item:focus {
+  background-color: #090843 !important;
+  color: #ffaa75 !important;
+}
 /* Slightly transparent table background */
 .transparent-table {
   background-color: rgba(255, 255, 255, 0.85);
@@ -11,7 +25,7 @@ h1, p {
 }
 
 h2 {
-  color: #ff6400;
+  color: #ffaa75;
 }
 html, body {
   height: 100%;
@@ -65,7 +79,7 @@ main {
 }
 /* Set card text color to Bootstrap primary (#0d6efd) */
 .card-text {
-  color: #0d6efd !important;
+  color: #024FC0 !important;
 }
 
 
@@ -90,7 +104,7 @@ h3 {
 }
 
 footer {
-  background: #0d6efd;
+  background: #024BB6;
   color: #fff;
   text-align: center;
   margin-top: 0%;
@@ -109,7 +123,7 @@ a href {
 
 /* Orange button for form submit */
 .btn-orange {
-  background-color: #ff6400;
+  background-color: #FFAA75;
   color: #fff;
   border: none;
 }
